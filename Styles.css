@@ -1,0 +1,62 @@
+body{
+  background-color: #067e5e;
+}
+.main-div{
+  width: 500px;
+  height: 500px;
+  background-color: #b7f2d9;
+  margin: 0 auto;
+  margin-top: 10%;
+}
+h2{
+  font-family: Courier;
+  background-color: black;
+  color: #b7f2d9;
+  font-size: 70px;
+  text-align: center;
+  line-height: 170px;
+}
+input{
+  font-size: 18px;
+  font-famiy: Courier;
+}
+.inputs{
+  color: white;
+  background-color: black;
+  font-family: Courier;
+}
+.input-1{
+  font-size: 25px;
+  text-align: center;
+}
+.input-2{
+  font-size: 25px;
+  margin-top: 2%;
+  text-align: center;
+}
+.operator-buttons{
+  text-align: center;
+  background-color:black;
+  margin-top: 6%;
+  padding: 12px;
+}
+button{
+  font-size: 20px;
+}
+#reset-button{
+  font-family: monospace;
+  font-weight: bold;
+  margin-left: 40%;
+  margin-top: 3%;
+  background-color: #e7c019;
+}
+.radio_buttons{
+  font-family: Courier;
+  margin-top: 6%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+#radio_btn1{
+  margin-right: 40px;
+}
